@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project>
+    <projectId>10001</projectId>
+    <projectKey>TES</projectKey>
+    <exportDate>2022-12-12 01:31:50 UTC</exportDate>
+    <folders/>
+    <testCases>
+        <testCase id="76786802" key="TES-T1">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Lucas Cunha</createdBy>
+            <createdOn>2022-12-11 14:20:16 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Cliente sem cadastro tenta fazer  login]]></name>
+            <owner>6385f8bd9341d1f13607dd71</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="steps">
+                <steps>
+                    <step index="0">
+                        <customFields/>
+                        <description><![CDATA[]]></description>
+                        <expectedResult><![CDATA[]]></expectedResult>
+                    </step>
+                </steps>
+            </testScript>
+        </testCase>
+        <testCase id="76786977" key="TES-T2">
+            <attachments/>
+            <confluencePageLinks/>
+            <createdBy>Lucas Cunha</createdBy>
+            <createdOn>2022-12-11 15:12:40 UTC</createdOn>
+            <customFields/>
+            <issues/>
+            <labels/>
+            <name><![CDATA[Funcionalidade de Login]]></name>
+            <owner>6385f8bd9341d1f13607dd71</owner>
+            <priority><![CDATA[Normal]]></priority>
+            <status><![CDATA[Draft]]></status>
+            <parameters/>
+            <testDataWrapper/>
+            <testScript type="plain">
+                <details><![CDATA[1. Cliente sem cadastro deseja criar uma conta.<br />2.Cliente sem cadastro tenta criar login.<br />3. Cliente com cadastro informa dados incorretos de acesso.]]></details>
+            </testScript>
+        </testCase>
+    </testCases>
+</project>
